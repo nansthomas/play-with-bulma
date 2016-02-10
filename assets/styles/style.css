@@ -4,14 +4,10 @@
 }
 
 .white {
-    color: white;
+    color: white !important;
 }
 
 .grey {
     color: white;
     opacity: 0.8;
-}
-
-.is-facebook {
-    background: #3b5998;
 }
