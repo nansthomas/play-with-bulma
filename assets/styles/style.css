@@ -1,0 +1,4 @@
+.is-custom {
+    background: linear-gradient(-134deg, rgba(32, 195, 231, 0.72) 0%, rgba(232, 102, 253, 0.72) 100%), url(../img/people.jpg) no-repeat center fixed;
+    background-size: cover;
+}
